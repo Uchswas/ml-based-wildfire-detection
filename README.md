@@ -5,6 +5,10 @@ A machine learning project for predicting wildfire occurrences using NASA satell
 
 ##  Where to Find What
 
+### Documentation
+- **Project report (PDF):** https://github.com/Uchswas/ml-based-wildfire-detection/blob/main/Report%20and%20Documentation.pdf
+
+
 ### Dataset
 - **Main Dataset**: `data/final_combined_dataset.csv` - Used by all model notebooks
 
