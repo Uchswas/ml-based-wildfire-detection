@@ -73,7 +73,7 @@ The project uses a combined dataset consisting of:
 
 2. **Navigate to the `src/` directory** in the Jupyter interface
 
-3. **Run notebooks:** Start with `Baseline_Models.ipynb` for baseline comparisons, then run any of the hyperparameter tuning notebooks (`Decision_Tree_*`, `KNN_*`, `Logistic_Regression_*`, `Multilayer_Perceptron_*`, `Random_Forest_*`) independently.
+3. **Run notebooks:** Start with `baseline_models.ipynb` for baseline comparisons, then run any of the hyperparameter tuning notebooks (`decision_tree_*`, `knn_*`, `logistic_regression_*`, `multilayer_perceptron_*`, `random_forest_*`) independently.
 
 
 
