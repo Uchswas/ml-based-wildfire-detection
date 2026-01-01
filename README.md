@@ -1,5 +1,12 @@
 # ML-Based Wildfire Detection
 
+![Python](https://img.shields.io/badge/Python--3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn--F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas--150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-Optimization-9C27B0?style=flat)
+
 A machine learning project for predicting wildfire occurrences using NASA satellite measurement data. This project implements and compares multiple classification algorithms with hyperparameter tuning.
 
 ## Project Overview
