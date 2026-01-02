@@ -8,6 +8,8 @@
 
 A machine learning project for predicting wildfire occurrences using NASA satellite measurement data. This project implements and compares multiple classification algorithms with hyperparameter tuning.
 
+> **Detailed documentation and results:** See the [Project Report PDF](https://github.com/Uchswas/ml-based-wildfire-detection/blob/main/Report%20and%20Documentation.pdf) for comprehensive analysis, results, and findings.
+
 ## Project Overview
 
 ### Problem Statement
@@ -19,7 +21,7 @@ Wildfires pose significant threats to ecosystems, property, and human lives. Ear
 - Develop and compare multiple machine learning classification models to predict wildfire occurrences
 - Identify the most important environmental features contributing to wildfire risk
 - Optimize model performance through systematic hyperparameter tuning
-- Evaluate models using comprehensive performance metrics including accuracy, precision, recall, F1-score, and ROC-AUC
+- Evaluate models using comprehensive performance metrics, including accuracy, precision, recall, F1-score, and ROC-AUC
 
 ### Dataset
 
@@ -50,9 +52,6 @@ The project uses a combined dataset consisting of:
 3. **Models Implemented**: Random Forest, Decision Tree, Logistic Regression, Multilayer Perceptron (MLP), K-Nearest Neighbors (KNN)
 
 4. **Evaluation Metrics**: Accuracy, Precision, Recall, F1-Score, ROC-AUC, Confusion Matrix
-
-**Detailed documentation and results:** See the [Project Report PDF](https://github.com/Uchswas/ml-based-wildfire-detection/blob/main/Report%20and%20Documentation.pdf) for comprehensive analysis, results, and findings.
-
 
 
 ## How to Run in Jupyter Notebook
